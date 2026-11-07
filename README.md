@@ -1,10 +1,10 @@
 # Introduction
 
-This project assesses the viability of including social vulnerability data in existing methods topredict hurricane damage levels.
+This project assesses the viability of including social vulnerability data in existing methods to predict hurricane damage levels.
 
-The paper titled A case study and parametric analysis of predicting hurricane-induced building damage using data-driven machine learning approach by Steven Klepac, Arthriya Subgranon, and Maitane Olabarrieta at the University of Florida has been used as a guideline for thisproject. Their approach was to combine building, hazard, and geospatial data from HurricanesHarvey, Irma, Michael, and Laura to evaluate the effectiveness of various machine learningmodels to predict hurricane damage. Their methods were replicated in this project and theresults were compared to the effects of adding social vulnerability data to the training data.
+The paper titled A case study and parametric analysis of predicting hurricane-induced building damage using data-driven machine learning approach by Steven Klepac, Arthriya Subgranon, and Maitane Olabarrieta at the University of Florida has been used as a guideline for this project. Their approach was to combine building, hazard, and geospatial data from HurricanesHarvey, Irma, Michael, and Laura to evaluate the effectiveness of various machine learning models to predict hurricane damage. Their methods were replicated in this project and theresults were compared to the effects of adding social vulnerability data to the training data.
 
-Analysis of both methods shows only marginal improvements when social vulnerability data isincluded in the training data. Further tuning of the model and different data inputs are stillrequired to improve the prediction method in a meaningful way
+Analysis of both methods shows only marginal improvements when social vulnerability data is included in the training data. Further tuning of the model and different data inputs are stillrequired to improve the prediction method in a meaningful way
 
 # Data
 
